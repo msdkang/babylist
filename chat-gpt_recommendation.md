@@ -1,52 +1,64 @@
-| #  | Item               | Selected Product          | Selected Brand | Alternative Brand | Category | Frequency    | Price    | Stores            |
-| -- | ------------------ | ------------------------- | -------------- | ----------------- | -------- | ------------ | -------- | ----------------- |
-| 1  | Baby bottles       | Natural Glass Baby Bottle | Philips Avent  | Dr. Brown’s       | Feeding  | Must-have    | $25–40   | Amazon, Target    |
-| 2  | Bottle drying rack | Lawn Drying Rack          | Boon           | OXO Tot           | Feeding  | Nice-to-have | $15–30   | Amazon, Walmart   |
-| 3  | Bottle brush       | Bottle Brush Set          | OXO Tot        | Munchkin          | Feeding  | Must-have    | $8–15    | Amazon            |
-| 4  | Milk storage bags  | Breastmilk Storage Bags   | Lansinoh       | Medela            | Feeding  | Must-have    | $10–20   | Amazon, Target    |
-| 5  | Bottle warmer      | Fast Bottle Warmer        | Philips Avent  | Tommee Tippee     | Feeding  | Nice-to-have | $30–60   | Amazon            |
-| 6  | Burp cloths        | Muslin Burp Cloth Set     | Burt’s Bees    | Gerber            | Feeding  | Must-have    | $15–25   | Amazon            |
-| 7  | Bibs               | Soft Drool Bib Set        | Copper Pearl   | Gerber            | Feeding  | Nice-to-have | $15–30   | Amazon            |
-| 8  | Breast pump        | Electric Breast Pump      | Medela         | Spectra           | Feeding  | Must-have    | $120–300 | Amazon, Insurance |
-| 9  | Nursing pillow     | Nursing Support Pillow    | Boppy          | My Brest Friend   | Feeding  | Nice-to-have | $30–60   | Amazon            |
-| 10 | Formula dispenser  | Formula Dispenser         | Munchkin       | Philips Avent     | Feeding  | Overhyped    | $8–15    | Amazon            |
-|11 | Diapers | Swaddlers Diapers | Pampers | Huggies | Diapering | Must-have | $40–80 | Costco, Amazon |
-|12 | Baby wipes | Sensitive Water Wipes | WaterWipes | Honest | Diapering | Must-have | $20–40 | Amazon, Costco |
-|13 | Diaper pail | Steel Diaper Pail | Ubbi | Diaper Genie | Diapering | Must-have | $70–100 | Amazon |
-|14 | Changing pad | Peanut Changer | Keekaroo | Skip Hop | Diapering | Nice-to-have | $100–140 | Amazon |
-|15 | Portable mat | Pronto Changing Station | Skip Hop | Munchkin | Diapering | Must-have | $20–40 | Amazon |
-|16 | Rash cream | Maximum Strength Paste | Desitin | Aquaphor | Diapering | Must-have | $5–15 | Amazon |
-|17 | Wipe dispenser | Perfect Pull Wipes Dispenser | OXO Tot | Ubbi | Diapering | Overhyped | $15–25 | Amazon |
-|18 | Diaper caddy | Nursery Organizer | Parker Baby | Basket | Diapering | Nice-to-have | $20–40 | Amazon |
-|19 | Disposal bags | Arm & Hammer Bags | Munchkin | Ubbi | Diapering | Nice-to-have | $10–20 | Amazon |
-|20 | Changing table | Changing Table | Delta Children | IKEA | Diapering | Nice-to-have | $100–200 | Target |
-|21 | Crib | 4-in-1 Convertible Crib | Graco | Delta | Sleep | Must-have | $150–300 | Target |
-|22 | Mattress | Breathable Crib Mattress | Newton | Sealy | Sleep | Must-have | $150–300 | Amazon |
-|23 | Sheets | Organic Cotton Sheets | Burt’s Bees | Carter’s | Sleep | Must-have | $20–40 | Amazon |
-|24 | Swaddles | Velcro Swaddle | Halo | Love to Dream | Sleep | Must-have | $20–40 | Amazon |
-|25 | Sleep sack | Wearable Blanket | Kyte Baby | Halo | Sleep | Nice-to-have | $40–70 | Amazon |
-|26 | White noise | Hatch Rest | Hatch | Yogasleep | Sleep | Nice-to-have | $50–80 | Amazon |
-|27 | Monitor | Video Baby Monitor | Infant Optics | Nanit | Sleep | Must-have | $100–300 | Amazon |
-|28 | Curtains | Blackout Curtains | Amazon Basics | Any | Sleep | Nice-to-have | $20–50 | Amazon |
-|29 | Night light | Touch Night Light | Vava | Hatch | Sleep | Nice-to-have | $20–40 | Amazon |
-|30 | Glider | Nursery Glider Chair | Babyletto | Delta | Sleep | Overhyped | $200–600 | Wayfair |
-|31 | Bathtub | Baby Bath Support | Angelcare | Fisher-Price | Bathing | Must-have | $20–40 | Amazon |
-|32 | Baby wash | Gentle Wash & Shampoo | Aveeno | Mustela | Bathing | Must-have | $10–20 | Amazon |
-|33 | Towels | Hooded Towels | Burt’s Bees | Simple Joys | Bathing | Must-have | $20–40 | Amazon |
-|34 | Washcloths | Baby Washcloth Set | Gerber | Any | Bathing | Must-have | $10–20 | Amazon |
-|35 | Bath thermometer | Bath Duck Thermometer | Philips Avent | Munchkin | Bathing | Overhyped | $10–20 | Amazon |
-|36 | Lotion | Baby Moisturizing Lotion | Aveeno | Cetaphil | Bathing | Must-have | $10–20 | Amazon |
-|37 | Grooming kit | Baby Healthcare Kit | Frida Baby | Safety 1st | Health | Must-have | $20–40 | Amazon |
-|38 | Nail clipper | Baby Nail Frida | Frida Baby | Safety 1st | Health | Must-have | $10–20 | Amazon |
-|39 | Thermometer | Digital Thermometer | Braun | Frida Baby | Health | Must-have | $20–50 | Amazon |
-|40 | Nasal aspirator | NoseFrida | Frida Baby | Hydrasense | Health | Must-have | $10–20 | Amazon |
-|41 | Car seat | KeyFit 30 Infant Seat | Chicco | Graco | Travel | Must-have | $200–300 | Target |
-|42 | Stroller | Vista V2 | UPPAbaby | Graco | Travel | Must-have | $300–900 | Nordstrom |
-|43 | Carrier | Omni 360 Carrier | Ergobaby | BabyBjörn | Travel | Nice-to-have | $100–200 | Amazon |
-|44 | Diaper bag | Backpack Diaper Bag | Skip Hop | Herschel | Travel | Must-have | $40–100 | Amazon |
-|45 | Extra base | Car Seat Base | Chicco | Graco | Travel | Nice-to-have | $80–150 | Amazon |
-|46 | Pack & play | Playard | Graco | BabyBjörn | Travel | Must-have | $80–200 | Amazon |
-|47 | Organizer | Stroller Organizer | Skip Hop | Momcozy | Travel | Overhyped | $15–30 | Amazon |
-|48 | Sunshade | Car Window Shade | Munchkin | Enovoe | Travel | Nice-to-have | $10–20 | Amazon |
-|49 | Travel sound | Portable Sound Machine | Yogasleep | Hatch Mini | Travel | Nice-to-have | $20–40 | Amazon |
-|50 | Swing | Baby Swing | Fisher-Price | BabyBjörn | Comfort | Nice-to-have | $80–200 | Amazon |
+| main_category | sub_category | count | priority | top_brand | alternative_brand |
+| --- | --- | --- | --- | --- | --- |
+| baby gear | Car Seat | 341 | Must Have | Graco | Evenflo |
+| baby gear | Carrier | 238 | Must Have | Momcozy | BabyBjörn |
+| baby gear | Stroller | 211 | Must Have | Momcozy | Nuna |
+| baby gear | Accessories | 152 | Nice to Have | Boppy | Munchkin |
+| baby gear | Travel System | 32 | Optional | Graco | Evenflo |
+| baby gear | Other | 0 | Optional | Graco | Ingenuity |
+| bathing | Bathtub | 620 | Must Have | Frida Baby | Skip Hop |
+| bathing | Towel | 176 | Must Have | Carter's | Cloud Island |
+| bathing | Washcloth | 137 | Nice to Have | Comfy Cubs | KeaBabies |
+| bathing | Skincare | 124 | Nice to Have | Aveeno Baby | The Honest Company |
+| bathing | Other | 0 | Optional | Frida Baby | Mustela |
+| clothing | Bodysuit | 491 | Must Have | Carter's | Gerber |
+| clothing | Accessories | 427 | Must Have | Burt's Bees Baby | Carter's |
+| clothing | Sleepwear | 262 | Must Have | Carter's | Gerber |
+| clothing | Outerwear | 25 | Optional | Carter's | Magnetic Me |
+| clothing | Other | 0 | Optional | Carter's | Magnetic Me |
+| diapering | Diapers | 746 | Must Have | Pampers | Huggies |
+| diapering | Changing Pad | 391 | Must Have | Munchkin | Skip Hop |
+| diapering | Wipes | 358 | Must Have | Pampers | Momcozy |
+| diapering | Cream | 197 | Must Have | Aquaphor | Tubby Todd |
+| diapering | Diaper Pail | 93 | Optional | Diaper Genie | MAM |
+| diapering | Diaper Bag | 84 | Optional | Ubbi | Skip Hop |
+| diapering | Organizer | 48 | Optional | Munchkin | Comfy Cubs |
+| diapering | Other | 0 | Optional | Pampers | The Honest Company |
+| feeding | Bottle | 1076 | Must Have | Philips Avent | Momcozy |
+| feeding | Milk Storage | 385 | Must Have | Momcozy | AEIOU |
+| feeding | Bib | 361 | Must Have | Lalo | PandaEar |
+| feeding | Burp Cloth | 332 | Must Have | Comfy Cubs | KeaBabies |
+| feeding | Breast Pump | 170 | Must Have | Momcozy | Medela |
+| feeding | Utensils | 150 | Nice to Have | PandaEar | Munchkin |
+| feeding | High Chair | 141 | Nice to Have | Graco | Lalo |
+| feeding | Sterilizer & Cleaning | 72 | Optional | Momcozy | Dr. Brown's |
+| feeding | Warmer | 8 | Optional | Frida Mom | Momcozy |
+| feeding | Other | 0 | Optional | Momcozy | Dr. Brown's |
+| health safety | Grooming Kit | 170 | Must Have | Frida Baby | Babylist |
+| health safety | Thermometer | 142 | Must Have | Frida Baby | Momcozy |
+| health safety | Nasal Care | 102 | Nice to Have | Frida Baby | Momcozy |
+| health safety | Medicine | 62 | Nice to Have | Frida Baby | Dr. Brown's |
+| health safety | Safety Gear | 44 | Optional | Safety 1st | Dreambaby |
+| health safety | Other | 0 | Optional | Frida Baby | Philips Avent |
+| mommy | Nursing | 56 | Must Have | Lansinoh | Momcozy |
+| mommy | Postpartum | 45 | Must Have | Frida Mom | Momcozy |
+| mommy | Recovery | 1 | Optional |  |  |
+| mommy | Other | 0 | Optional | MAM | Momcozy |
+| nursery decor | Other | 0 | Optional | Storkcraft | Hatch |
+| other | Other | 0 | Optional | Babylist | Momcozy |
+| playing | Toy | 433 | Must Have | Itzy Ritzy | Lovevery |
+| playing | Books | 167 | Must Have | Babylist | Sassy |
+| playing | Activity Gym | 123 | Nice to Have | Fisher-Price | Lovevery |
+| playing | Playmat | 67 | Optional | Lovevery | Bright Starts |
+| playing | Walker | 30 | Optional | Baby Einstein | Bright Starts |
+| playing | Swing | 29 | Optional | Graco | BabyBjörn |
+| playing | Playpen | 13 | Optional | Hape |  |
+| playing | Other | 0 | Optional | Itzy Ritzy | Fisher-Price |
+| sleeping | Crib | 563 | Must Have | Newton Baby | Graco |
+| sleeping | Swaddle | 497 | Must Have | Halo | Ingenuity |
+| sleeping | Bassinet | 164 | Must Have | Halo | Newton Baby |
+| sleeping | Monitor | 146 | Nice to Have | Owlet | Nanit |
+| sleeping | Sound Machine | 143 | Nice to Have | Hatch | Momcozy |
+| sleeping | Mattress | 17 | Optional | Halo | 4moms |
+| sleeping | Sheets | 13 | Optional | Halo | Cloud Island |
+| sleeping | Other | 0 | Optional | Halo | Kyte Baby |
